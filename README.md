@@ -21,3 +21,7 @@ Todo
 - [] - APT Recorder (wxtoimg is deprecated) 
 - [] - Finding geospatial information from the recieved data
 - [] - Automating the tracking process 
+
+
+https://github.com/caithmac/Satellite-signals/blob/main/Satellite%20%20Tracking.md
+Read the paper here, will upload a clean paper soon with unfinished task soon. 
