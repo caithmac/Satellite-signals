@@ -12,11 +12,12 @@ Overall, my major project was a successful attempt to develop an autonomous Cros
 I am proud of what I accomplished with this project, and I am excited to see how it can be used in the future.
 
 Todo
-[] - Single Telescopic Antenna 
-[] - V-Dipole Antenna 
-[] - Yagi Antenna 
-[] - Cross Yagi Antenna 
-[] - QFH Antenna 
-[] - Turnstile Antenna 
-[] - APT Recorder (wxtoimg is deprecated) 
-[] - Automating the tracking process 
+- [x] - Single Telescopic Antenna 
+- [x] - V-Dipole Antenna 
+- [x] - Yagi Antenna 
+- [x] - Cross Yagi Antenna 
+- [] - QFH Antenna 
+- [x] - Turnstile Antenna 
+- [] - APT Recorder (wxtoimg is deprecated) 
+- [] - Finding geospatial information from the recieved data
+- [] - Automating the tracking process 
