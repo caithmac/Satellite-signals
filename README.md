@@ -16,7 +16,7 @@ Todo
 - [x] - V-Dipole Antenna 
 - [x] - Yagi Antenna 
 - [x] - Cross Yagi Antenna 
-- [] - QFH Antenna 
+- [o] - QFH Antenna 
 - [x] - Turnstile Antenna 
 - [] - APT Recorder (wxtoimg is deprecated) 
 - [] - Finding geospatial information from the recieved data
